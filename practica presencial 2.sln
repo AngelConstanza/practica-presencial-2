@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica presencial 2", "practica presencial 2\practica presencial 2.csproj", "{0AF9F637-17D1-4F0D-9D3F-7E3F62C25C7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practica presencial 2", "practica presencial 2\practica presencial 2.csproj", "{0AF9F637-17D1-4F0D-9D3F-7E3F62C25C7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2", "App2\App2.csproj", "{A432CEE3-9B68-4700-814C-0C19DD573BAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App2", "App2\App2.csproj", "{A432CEE3-9B68-4700-814C-0C19DD573BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3", "App3\App3.csproj", "{DF944C5B-D208-47C4-9A84-F3453B66545E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A432CEE3-9B68-4700-814C-0C19DD573BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A432CEE3-9B68-4700-814C-0C19DD573BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A432CEE3-9B68-4700-814C-0C19DD573BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF944C5B-D208-47C4-9A84-F3453B66545E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF944C5B-D208-47C4-9A84-F3453B66545E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF944C5B-D208-47C4-9A84-F3453B66545E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF944C5B-D208-47C4-9A84-F3453B66545E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
